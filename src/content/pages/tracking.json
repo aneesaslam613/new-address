@@ -1,0 +1,29 @@
+{
+  "steps": [
+    {
+      "title": "Order Confirmed",
+      "desc": "Your order is confirmed and processing begins.",
+      "id": "twzG7yto4Hn231GriZyIP"
+    },
+    {
+      "title": "Procurement & Processing",
+      "desc": "The order is sourced, inspected, packaged, and prepared for dispatch.",
+      "id": "KAgPmSKPCt7knOZtr7XEp"
+    },
+    {
+      "title": "Dispatch",
+      "desc": "The parcel is handed to the logistics provider. Tracking activation may take 24–72 hours.",
+      "id": "aIdacMW6_FmlzOFlMaEBl"
+    },
+    {
+      "title": "Tracking Available",
+      "desc": "You receive a tracking number by email. Use it on the carrier's website to monitor progress.",
+      "id": "EmsZTffzx00t51jrFR5_C"
+    },
+    {
+      "title": "Delivery",
+      "desc": "The parcel is delivered to the destination address.",
+      "id": "iB1BiqXIKBtp163w9dYqQ"
+    }
+  ]
+}

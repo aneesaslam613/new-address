@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A2540"/>
+      <stop offset="60%" style="stop-color:#0D3060"/>
+      <stop offset="100%" style="stop-color:#1A56DB"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1A56DB"/>
+      <stop offset="100%" style="stop-color:#0EA5E9"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <line x1="0" y1="210" x2="1200" y2="210" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+  <line x1="0" y1="420" x2="1200" y2="420" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="630" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+  <line x1="800" y1="0" x2="800" y2="630" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+
+  <!-- Accent bar top -->
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+
+  <!-- Globe icon (simplified network mark) -->
+  <circle cx="140" cy="315" r="64" fill="none" stroke="rgba(14,165,233,0.3)" stroke-width="2"/>
+  <circle cx="140" cy="315" r="44" fill="none" stroke="rgba(26,86,219,0.5)" stroke-width="1.5"/>
+  <circle cx="140" cy="315" r="24" fill="rgba(26,86,219,0.4)" stroke="rgba(14,165,233,0.6)" stroke-width="1.5"/>
+  <!-- Network nodes -->
+  <circle cx="140" cy="251" r="5" fill="#0EA5E9"/>
+  <circle cx="204" cy="315" r="5" fill="#0EA5E9"/>
+  <circle cx="140" cy="379" r="5" fill="#1A56DB"/>
+  <circle cx="76" cy="315" r="5" fill="#1A56DB"/>
+  <line x1="140" y1="256" x2="140" y2="291" stroke="rgba(14,165,233,0.5)" stroke-width="1.5"/>
+  <line x1="199" y1="315" x2="164" y2="315" stroke="rgba(14,165,233,0.5)" stroke-width="1.5"/>
+  <line x1="140" y1="374" x2="140" y2="339" stroke="rgba(26,86,219,0.5)" stroke-width="1.5"/>
+  <line x1="81" y1="315" x2="116" y2="315" stroke="rgba(26,86,219,0.5)" stroke-width="1.5"/>
+
+  <!-- Company name -->
+  <text x="240" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="#ffffff" letter-spacing="-1">Arseen Enterprises</text>
+  <text x="242" y="330" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="500" fill="rgba(255,255,255,0.65)" letter-spacing="0.5">LLC · Logistics &amp; Fulfillment</text>
+
+  <!-- Divider -->
+  <rect x="240" y="358" width="480" height="3" rx="2" fill="url(#accent)"/>
+
+  <!-- Tagline -->
+  <text x="240" y="400" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="400" fill="rgba(255,255,255,0.55)">B2B Logistics · E-Commerce Fulfillment · Wyoming LLC</text>
+
+  <!-- Trust badges -->
+  <rect x="240" y="440" width="180" height="36" rx="18" fill="rgba(26,86,219,0.25)" stroke="rgba(26,86,219,0.5)" stroke-width="1"/>
+  <text x="330" y="463" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#93C5FD" text-anchor="middle">Wyoming Registered</text>
+
+  <rect x="434" y="440" width="160" height="36" rx="18" fill="rgba(14,165,233,0.2)" stroke="rgba(14,165,233,0.4)" stroke-width="1"/>
+  <text x="514" y="463" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#7DD3FC" text-anchor="middle">International Shipping</text>
+
+  <rect x="608" y="440" width="140" height="36" rx="18" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+  <text x="678" y="463" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="rgba(255,255,255,0.7)" text-anchor="middle">Est. 2023</text>
+
+  <!-- Domain -->
+  <text x="1160" y="600" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="rgba(255,255,255,0.35)" text-anchor="end">arseenenterprises.com</text>
+</svg>

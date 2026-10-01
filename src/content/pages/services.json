@@ -1,0 +1,56 @@
+{
+  "services": [
+    {
+      "title": "Product Procurement",
+      "description": "We arrange physical products according to customer specifications, quantities and project requirements through our sourcing network. Each procurement request is reviewed for availability and fulfillment requirements before a quotation is provided.",
+      "id": "st-qcpIPHvr5EIU_EXvKT"
+    },
+    {
+      "title": "Custom Order Fulfillment",
+      "description": "We coordinate each approved customer order from procurement through preparation and fulfillment according to the quotation and agreed requirements.",
+      "id": "1X_FQPdWlL114BYtRg-xv"
+    },
+    {
+      "title": "Product Inspection Coordination",
+      "description": "Where applicable, inspection, photographs, videos or other reasonable verification may be coordinated before shipment.",
+      "id": "TyW8drWnKcdq6Yn5RjIAP"
+    },
+    {
+      "title": "Packaging & Order Preparation",
+      "description": "Products are consolidated, prepared and packaged according to applicable order and transportation requirements before shipment.",
+      "id": "GGaT-P_i2grAlV9P1eMDl"
+    },
+    {
+      "title": "International Shipment Coordination",
+      "description": "After an order is prepared, Arseen Enterprises LLC coordinates international shipment through appropriate independent logistics providers as part of the fulfillment process.",
+      "id": "PGUdEZVWRKaDJ4JW92TO2"
+    },
+    {
+      "title": "Tracking & Delivery Support",
+      "description": "Tracking information is provided when available, and we assist customers with shipment-status information throughout the delivery process.",
+      "id": "bqHM0BmEa7qjowVjt12CW"
+    }
+  ],
+  "TRUST_SIGNALS": [
+    {
+      "label": "Wyoming LLC",
+      "sub": "Formally registered entity",
+      "id": "6IRrZ0W_R0uTHkd2kFkkq"
+    },
+    {
+      "label": "B2B & B2C",
+      "sub": "Businesses and individuals",
+      "id": "RWqcINjEZfGKEMmWFD6S9"
+    },
+    {
+      "label": "International Reach",
+      "sub": "Cross-border procurement & fulfillment",
+      "id": "NCI3Bdt2V5sQM_DmQm3fz"
+    },
+    {
+      "label": "Transparent Process",
+      "sub": "Written quotations before payment",
+      "id": "Ylpcl51fdoa7pobKRZC52"
+    }
+  ]
+}

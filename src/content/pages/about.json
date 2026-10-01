@@ -1,0 +1,18 @@
+{
+  "headline": "About Arseen Enterprises LLC",
+  "description": "Arseen Enterprises LLC is a Wyoming-registered company providing custom product procurement and international order fulfillment services. We serve both business clients (B2B) and individual consumers (B2C). Our role is to coordinate customer-specific procurement, order preparation, packaging, international shipment and tracking through our sourcing and logistics network.",
+  "commercialRelationship": {
+    "heading": "Our Commercial Relationship",
+    "body": "Customers contract with and pay Arseen Enterprises LLC for their approved orders. Arseen Enterprises LLC coordinates procurement and fulfillment and bears the applicable procurement, processing and logistics costs associated with fulfilling those orders. Independent suppliers, procurement coordinators and logistics providers support our fulfillment operations but do not separately collect customer payments through our website."
+  },
+  "customOrderModel": {
+    "heading": "Custom-Order Model",
+    "body": "Our services operate primarily on a custom-order basis. Because products are procured according to customer requirements, we do not maintain a fixed online product catalog covering every item that may be requested. Customers contact us with their requirements and receive a quotation before placing an order."
+  },
+  "values": [
+    "Transparency in every procurement and fulfillment operation",
+    "Professionalism and regulatory compliance",
+    "Reliable coordination across international sourcing and logistics networks",
+    "Tailored solutions based on customer requirements"
+  ]
+}

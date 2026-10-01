@@ -1,0 +1,41 @@
+{
+  "pageTitle": "Company Information",
+  "pageSubtitle": "Legal registration details and business information for Arseen Enterprises LLC.",
+  "breadcrumb": "Company Information",
+  "legalEntity": {
+    "heading": "Legal Entity",
+    "companyName": "Arseen Enterprises LLC",
+    "entityType": "Wyoming Limited Liability Company",
+    "wyomingEntityId": "2026-002008340",
+    "established": "2026",
+    "federalEin": "Federal EIN on File"
+  },
+  "addresses": {
+    "heading": "Addresses",
+    "usOffice": {
+      "label": "US Office Address",
+      "line1": "15 Tanguay Ave, Suite 112 #7C",
+      "line2": "Nashua, NH 03063",
+      "country": "United States",
+      "note": "This is the company's United States office address. It is not a public warehouse, retail location, or general product-return address."
+    },
+    "principalOffice": {
+      "label": "Principal Office",
+      "line1": "15 Tanguay Ave, Suite 112 #7C",
+      "line2": "Nashua, NH 03063",
+      "country": "United States"
+    }
+  },
+  "businessDescription": {
+    "heading": "Business Description",
+    "para1": "Arseen Enterprises LLC provides international product procurement, order fulfillment, inspection coordination, packaging, shipment coordination, and tracking support for businesses and individual consumers. Orders may be fulfilled through independent suppliers, logistics providers, and fulfillment partners in China and other approved sourcing locations.",
+    "para2": "The company serves both business customers (B2B) and individual consumers (B2C). All orders receive a written quotation before payment."
+  },
+  "contact": {
+    "heading": "Contact",
+    "email": "support@arseenenterprises.com",
+    "responseTime": "Customer-support inquiries are normally answered within 1–2 business days."
+  },
+  "ctaContact": "Contact Us",
+  "ctaAbout": "About Us"
+}

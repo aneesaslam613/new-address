@@ -1,0 +1,30 @@
+{
+  "prohibited": [
+    "Counterfeit goods, unauthorized replicas, and goods infringing trademarks, copyrights, patents, or other intellectual-property rights",
+    "Weapons, firearms, ammunition, and related components",
+    "Explosives, flammable materials, and hazardous chemicals not properly classified",
+    "Narcotics, controlled substances, and illegal drugs",
+    "Items subject to applicable sanctions, trade embargoes, or export-control requirements without required authorization",
+    "Products requiring an export license that has not been obtained",
+    "Goods involving sanctioned persons, prohibited counterparties, or prohibited jurisdictions",
+    "Human remains, organs, or biological specimens",
+    "Live animals (unless covered by specific permits and carrier approvals)",
+    "Child exploitation material of any kind",
+    "Stolen goods or goods obtained through fraud",
+    "Items prohibited by the destination country's import laws",
+    "Goods on the US Commerce Control List requiring an export license"
+  ],
+  "restricted": [
+    "Alcohol and tobacco/nicotine products — subject to destination regulations, applicable licensing, and payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "Regulated or prescription pharmaceuticals — subject to applicable licensing, destination regulations, and payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "Regulated medical devices — subject to applicable regulatory clearance, destination requirements, and payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "High-value goods over applicable thresholds — require additional documentation and are subject to payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "Precious metals or precious stones — subject to applicable documentation, carrier requirements, and payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "Currency or negotiable instruments — subject to applicable financial regulations and payment-provider requirements. These categories will not be processed through Stripe unless the activity is permitted under applicable law and Stripe has provided any required prior approval.",
+    "Food and perishable items — subject to import health regulations and carrier restrictions.",
+    "Electronics with lithium batteries — subject to carrier restrictions and applicable hazardous-materials regulations.",
+    "Items requiring CITES permits — subject to applicable wildlife-protection laws and permits.",
+    "Goods requiring special import licenses in the destination country — subject to applicable licensing and documentation requirements."
+  ],
+  "restrictedIntro": "Certain regulated or higher-risk categories are not automatically accepted. Acceptance depends on applicable law, destination requirements, carrier requirements, licensing, documentation, and applicable payment-provider approval. A request may be declined even if the underlying product is legal."
+}

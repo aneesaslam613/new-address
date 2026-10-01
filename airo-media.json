@@ -1,0 +1,217 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1480031050",
+    "searchQuery": "international logistics warehouse fulfillment operations",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2190391012",
+      "https://img1.wsimg.com/isteam/getty/2006314218",
+      "https://img1.wsimg.com/isteam/getty/2148737405",
+      "https://img1.wsimg.com/isteam/getty/1366345465"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-17T20:50:58.130Z",
+    "lastUpdated": "2026-07-17T20:50:58.130Z",
+    "gettyId": "1480031050",
+    "alternativeGettyIds": [
+      "2190391012",
+      "2006314218",
+      "2148737405",
+      "1366345465"
+    ],
+    "requestedSize": {
+      "width": 1440,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot",
+    "minimumSize": "x_large"
+  },
+  "pages/home/about": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2185269149",
+    "searchQuery": "global shipping logistics coordination professional team",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1211244989",
+      "https://img1.wsimg.com/isteam/getty/1474043686"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-17T20:50:58.491Z",
+    "lastUpdated": "2026-07-17T20:50:58.491Z",
+    "gettyId": "2185269149",
+    "alternativeGettyIds": [
+      "1211244989",
+      "1474043686"
+    ],
+    "requestedSize": {
+      "width": 700,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/fulfillment": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2186511976",
+    "searchQuery": "e-commerce order fulfillment packages shipping boxes",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2208822850",
+      "https://img1.wsimg.com/isteam/getty/2213037700"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-17T20:50:58.824Z",
+    "lastUpdated": "2026-07-17T20:50:58.824Z",
+    "gettyId": "2186511976",
+    "alternativeGettyIds": [
+      "2208822850",
+      "2213037700"
+    ],
+    "requestedSize": {
+      "width": 700,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/32a7b10a-074d-4691-b6b7-24e78926bb2a/horizontal-transparent-9826aa3d-53fa-44b6-9913-213c06e17fb7/logo-logo.png",
+    "searchQuery": "Same logo layout but inverted for a dark navy background — white wordmark \"Arsee",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b/horizontal-transparent-b997cf9c-62d7-4df5-bc62-ea48a89f3c96/logo-logo.png": {
+        "sessionId": "765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b",
+        "logoId": "b997cf9c-62d7-4df5-bc62-ea48a89f3c96",
+        "groupId": "cc969082-9091-450e-a34b-60aa0f2af579"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-transparent-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png": {
+        "sessionId": "3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5",
+        "logoId": "76240120-60af-41ef-8fa1-a5bbe30157d4",
+        "groupId": "22de5276-d9fd-4333-a9a9-94628a5672c1"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/32a7b10a-074d-4691-b6b7-24e78926bb2a/horizontal-transparent-9826aa3d-53fa-44b6-9913-213c06e17fb7/logo-logo.png": {
+        "sessionId": "32a7b10a-074d-4691-b6b7-24e78926bb2a",
+        "logoId": "9826aa3d-53fa-44b6-9913-213c06e17fb7",
+        "groupId": "22de5276-d9fd-4333-a9a9-94628a5672c1"
+      }
+    },
+    "logoGroupId": "22de5276-d9fd-4333-a9a9-94628a5672c1",
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b/horizontal-transparent-b997cf9c-62d7-4df5-bc62-ea48a89f3c96/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b/horizontal-original-b997cf9c-62d7-4df5-bc62-ea48a89f3c96/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-transparent-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-original-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b/horizontal-transparent-b997cf9c-62d7-4df5-bc62-ea48a89f3c96/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/765f6dfa-bd32-4ccb-b3e3-d783acb5fe0b/horizontal-transparent-b997cf9c-62d7-4df5-bc62-ea48a89f3c96/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-transparent-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-transparent-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "userModified": false,
+    "createdAt": "2026-07-17T20:51:30.959Z",
+    "lastUpdated": "2026-07-18T00:02:56.592Z",
+    "surfaceMode": "dark",
+    "generatedForSurfaceColor": "#052D5A",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/3f0244a9-3f30-4230-aad5-d2ce0c9a2ff5/horizontal-transparent-76240120-60af-41ef-8fa1-a5bbe30157d4/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/32a7b10a-074d-4691-b6b7-24e78926bb2a/horizontal-transparent-9826aa3d-53fa-44b6-9913-213c06e17fb7/logo-logo.png"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/94a215bf-86f8-4645-a7ab-bde832761172/favicon-transparent-b0547a80-5098-409a-8489-5a789813764d/logo-logo.png",
+    "searchQuery": "Extract the geometric icon mark only — the chevron/arrow-box symbol — as a compa",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/f36102e7-5c81-4c4e-93c6-261da42c3faf/favicon-transparent-faa93419-449c-49c8-9fca-369302cf226f/logo-logo.png": {
+        "sessionId": "f36102e7-5c81-4c4e-93c6-261da42c3faf",
+        "logoId": "faa93419-449c-49c8-9fca-369302cf226f",
+        "groupId": "cc969082-9091-450e-a34b-60aa0f2af579"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/94a215bf-86f8-4645-a7ab-bde832761172/favicon-transparent-b0547a80-5098-409a-8489-5a789813764d/logo-logo.png": {
+        "sessionId": "94a215bf-86f8-4645-a7ab-bde832761172",
+        "logoId": "b0547a80-5098-409a-8489-5a789813764d",
+        "groupId": "22de5276-d9fd-4333-a9a9-94628a5672c1"
+      }
+    },
+    "logoGroupId": "22de5276-d9fd-4333-a9a9-94628a5672c1",
+    "userModified": false,
+    "createdAt": "2026-07-17T20:51:50.271Z",
+    "lastUpdated": "2026-07-18T00:02:53.167Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/f36102e7-5c81-4c4e-93c6-261da42c3faf/favicon-transparent-faa93419-449c-49c8-9fca-369302cf226f/logo-logo.png",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/68d8f7e7-c993-4ff9-b6e7-2a4595cecbdd/session/94a215bf-86f8-4645-a7ab-bde832761172/favicon-transparent-b0547a80-5098-409a-8489-5a789813764d/logo-logo.png"
+  },
+  "pages/lp/procurement-fulfillment/hero": {
+    "requestedSize": {
+      "width": 1440,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2258446792",
+    "searchQuery": "international product procurement business professional",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2201230883",
+      "https://img1.wsimg.com/isteam/getty/2233691545",
+      "https://img1.wsimg.com/isteam/getty/487795408"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-22T19:11:39.836Z",
+    "lastUpdated": "2026-08-22T19:11:39.836Z",
+    "gettyId": "2258446792",
+    "alternativeGettyIds": [
+      "2201230883",
+      "2233691545",
+      "487795408"
+    ]
+  },
+  "blog/how-custom-product-procurement-works": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 630,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2225852701",
+    "searchQuery": "product procurement supply chain business",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2201230883",
+      "https://img1.wsimg.com/isteam/getty/2227157835"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-22T19:11:41.584Z",
+    "lastUpdated": "2026-08-22T19:11:41.584Z",
+    "gettyId": "2225852701",
+    "alternativeGettyIds": [
+      "2201230883",
+      "2227157835"
+    ]
+  },
+  "blog/international-order-fulfillment-coordination-partner": {
+    "requestedSize": {
+      "width": 1200,
+      "height": 630,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/835810076",
+    "searchQuery": "international order fulfillment coordination",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2227909165",
+      "https://img1.wsimg.com/isteam/getty/1307282569"
+    ],
+    "userModified": false,
+    "createdAt": "2026-08-22T19:11:42.585Z",
+    "lastUpdated": "2026-08-22T19:11:42.585Z",
+    "gettyId": "835810076",
+    "alternativeGettyIds": [
+      "2227909165",
+      "1307282569"
+    ]
+  }
+}

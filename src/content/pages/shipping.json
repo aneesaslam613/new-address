@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "International Shipping & Delivery",
+    "subtitle": "Processing times, delivery estimates, carrier information, customs guidance, and tracking details for international orders fulfilled by Arseen Enterprises LLC."
+  },
+  "processingRows": [
+    {
+      "type": "Standard orders",
+      "time": "approximately 3–7 business days",
+      "id": "6uptdRq3NefbJLtkM-CFc"
+    },
+    {
+      "type": "Product sourcing or procurement orders",
+      "time": "approximately 5–10 business days",
+      "id": "IJbzi2JezMLKXPFSVGnOe"
+    },
+    {
+      "type": "Customized, bulk, or complex orders",
+      "time": "time stated in the quotation",
+      "id": "I9khS487Ol41E6VZdNd0n"
+    }
+  ],
+  "deliveryRows": [
+    {
+      "service": "Express international service",
+      "time": "approximately 4–7 business days",
+      "id": "k1PZVrKDm87F4qtbMlX4h"
+    },
+    {
+      "service": "Standard international service",
+      "time": "approximately 7–13 business days",
+      "id": "_COpaTw-dRxsl10DdSXT4"
+    },
+    {
+      "service": "Economy international service",
+      "time": "approximately 13–19 business days",
+      "id": "jTgOD9eDV5PFVSoLFZx2E"
+    }
+  ],
+  "destinationRows": [
+    {
+      "route": "China to the United States",
+      "time": "approximately 4–7 business days",
+      "id": "VeZHBVeS2MbS4gpoCDbCI"
+    },
+    {
+      "route": "China to the United Kingdom",
+      "time": "approximately 7–13 business days",
+      "id": "aLl8qDjKW6KAntVhcp8Wo"
+    },
+    {
+      "route": "China to Canada",
+      "time": "approximately 7–13 business days",
+      "id": "1DXJjxPLk-_WuDY2k-PGV"
+    },
+    {
+      "route": "China to Australia",
+      "time": "approximately 7–13 business days",
+      "id": "sbQqNd8tXR23zIxTFZudK"
+    },
+    {
+      "route": "China to Europe",
+      "time": "approximately 7–13 business days",
+      "id": "fzRKprGFUfOZDpiuMSRpc"
+    },
+    {
+      "route": "China to the Middle East",
+      "time": "approximately 7–13 business days",
+      "id": "7J84xtXF24QPfqBOKeMIW"
+    },
+    {
+      "route": "Other destinations",
+      "time": "estimate provided in the customer quotation",
+      "id": "V_L4rxzsB51uX-RoLv9vw"
+    }
+  ],
+  "carriers": [
+    "DHL",
+    "FedEx",
+    "UPS",
+    "USPS (United States Postal Service)",
+    "Royal Mail",
+    "Canada Post",
+    "Australia Post",
+    "China Post",
+    "EMS",
+    "YunExpress",
+    "4PX",
+    "Cainiao",
+    "SF Express",
+    "Aramex",
+    "DPD",
+    "and other suitable providers"
+  ]
+}

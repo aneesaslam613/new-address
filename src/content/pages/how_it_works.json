@@ -1,0 +1,91 @@
+{
+  "heading": "How It Works",
+  "subheading": "A clear process from product requirements to delivery — coordinated by Arseen Enterprises LLC from start to finish.",
+  "steps": [
+    {
+      "id": "step-1",
+      "number": "01",
+      "title": "Submit Product Requirements",
+      "description": "The customer provides the requested product specifications, quantity, destination and relevant fulfillment requirements."
+    },
+    {
+      "id": "step-2",
+      "number": "02",
+      "title": "Receive a Quotation",
+      "description": "Arseen Enterprises LLC reviews procurement availability and fulfillment requirements and provides the customer with a quotation, including applicable order and shipping information."
+    },
+    {
+      "id": "step-3",
+      "number": "03",
+      "title": "Approve & Pay",
+      "description": "The customer reviews and accepts the quotation and pays Arseen Enterprises LLC for the approved order."
+    },
+    {
+      "id": "step-4",
+      "number": "04",
+      "title": "Product Procurement",
+      "description": "Arseen Enterprises LLC coordinates procurement of the requested physical products through its sourcing and procurement network."
+    },
+    {
+      "id": "step-5",
+      "number": "05",
+      "title": "Order Preparation",
+      "description": "The order is inspected where applicable, consolidated, prepared and packaged for shipment."
+    },
+    {
+      "id": "step-6",
+      "number": "06",
+      "title": "International Shipment",
+      "description": "Arseen Enterprises LLC coordinates shipment through an appropriate independent logistics provider as part of the order fulfillment process."
+    },
+    {
+      "id": "step-7",
+      "number": "07",
+      "title": "Tracking & Delivery",
+      "description": "Tracking information is provided to the customer when available, and Arseen Enterprises LLC provides shipment-status support through delivery."
+    }
+  ],
+  "commercialRelationship": {
+    "heading": "Our Commercial Relationship",
+    "body": "Customers contract with and pay Arseen Enterprises LLC for their approved orders. Arseen Enterprises LLC coordinates procurement and fulfillment and bears the applicable procurement, processing and logistics costs associated with fulfilling those orders. Independent suppliers, procurement coordinators and logistics providers support our fulfillment operations but do not separately collect customer payments through our website."
+  },
+  "whatWeProcure": {
+    "heading": "What We Procure",
+    "intro": "We assist customers with procurement across general merchandise categories according to their specific requirements and applicable regulations. Examples may include:",
+    "categories": [
+      "Consumer goods",
+      "Home & lifestyle products",
+      "Office & business supplies",
+      "Packaging materials",
+      "Promotional merchandise",
+      "Fashion & accessories where legally permitted",
+      "General merchandise",
+      "Custom sourcing requests"
+    ],
+    "disclaimer": "Product sourcing is subject to supplier availability, destination-country requirements, applicable laws and our internal acceptance criteria."
+  },
+  "ctaText": "Ready to submit your product requirements?",
+  "ctaButton": "Request a Quote",
+  "FAQS": [
+    {
+      "q": "How long does procurement and fulfillment take?",
+      "a": "Timelines depend on the product, destination, and order complexity. Standard orders typically take 2–7 business days to process before dispatch. Our team will provide specific estimates in your quotation.",
+      "id": "uCrt8jJzHVd5tV-GCJhqh"
+    },
+    {
+      "q": "Do you provide tracking?",
+      "a": "Yes — tracking information is provided after the shipment has been accepted and processed by the logistics provider. Activation may take 24–72 hours after dispatch.",
+      "id": "SFiAvPcQpDtpsc5WnT_SB"
+    },
+    {
+      "q": "What types of customers do you serve?",
+      "a": "We serve both business clients (B2B) and individual consumers (B2C). All orders begin with a written quotation.",
+      "id": "lEzp6kK2LNLiumvlFVLKY"
+    },
+    {
+      "q": "Do you maintain a product catalog?",
+      "a": "No. Our services operate on a custom-order basis. Products are procured according to customer requirements. Customers contact us with their specifications and receive a quotation before placing an order.",
+      "id": "faq-catalog-001"
+    }
+  ]
+}

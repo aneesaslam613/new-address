@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "eyebrow": "Transparency & Trust",
+    "heading": "Proof of Delivery",
+    "subheading": "Every fulfilled order is documented. Click 'View Proof' to access all delivery confirmation screenshots organized by month."
+  },
+  "table": {
+    "heading": "Fulfilled Orders",
+    "description": "All proof of delivery screenshots are stored in one shared Google Drive folder, organized by month. Click the button below to browse.",
+    "entries": [
+      {
+        "id": "entry-001",
+        "orderId": "ALL ORDERS",
+        "date": "2024-01-01",
+
+        "destination": "All Countries",
+        "status": "Delivered",
+        "driveLink": "https://drive.google.com/drive/folders/1539OVn_6oZU1EjBnbDWD8Ep0FV_XdiRW?usp=drive_link"
+      }
+    ]
+  },
+  "note": {
+    "heading": "Need a specific order?",
+    "body": "If you can't find your delivery confirmation in the folder, contact us directly and we'll provide it within 24–48 hours.",
+    "cta": "Contact Us"
+  }
+}

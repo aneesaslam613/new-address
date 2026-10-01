@@ -1,0 +1,106 @@
+{
+  "hero": {
+    "title": "Pricing and Custom Quotations",
+    "subtitle": "Every order is priced individually because product costs, package specifications, shipping requirements, and destination-country charges vary considerably. Customers receive a written quotation or invoice before payment."
+  },
+  "notice": "These ranges represent estimated service fees only and may not include the product cost, international freight, courier charges, insurance, customs duties, import taxes, payment-processing charges, remote-area surcharges, or other third-party costs.",
+  "individualTitle": "Individual Consumer Orders",
+  "individualItems": [
+    {
+      "id": "ind-1",
+      "service": "Basic procurement and order coordination",
+      "range": "approximately $25–$75"
+    },
+    {
+      "id": "ind-2",
+      "service": "Product inspection and documentation",
+      "range": "approximately $20–$60"
+    },
+    {
+      "id": "ind-3",
+      "service": "Packaging and fulfillment coordination",
+      "range": "approximately $25–$100"
+    },
+    {
+      "id": "ind-4",
+      "service": "Complex, customized, or high-value orders",
+      "range": "custom quotation"
+    }
+  ],
+  "businessTitle": "Business and Bulk Orders",
+  "businessItems": [
+    {
+      "id": "biz-1",
+      "service": "B2B procurement and fulfillment setup",
+      "range": "approximately $100–$500"
+    },
+    {
+      "id": "biz-2",
+      "service": "Bulk-order coordination",
+      "range": "custom quotation"
+    },
+    {
+      "id": "biz-3",
+      "service": "Recurring fulfillment arrangements",
+      "range": "custom quotation"
+    },
+    {
+      "id": "biz-4",
+      "service": "Customized packaging and special handling",
+      "range": "custom quotation"
+    }
+  ],
+  "factorsTitle": "Final pricing may depend on",
+  "factors": [
+    {
+      "id": "f-1",
+      "text": "Product category and value"
+    },
+    {
+      "id": "f-2",
+      "text": "Quantity"
+    },
+    {
+      "id": "f-3",
+      "text": "Product availability"
+    },
+    {
+      "id": "f-4",
+      "text": "Weight and dimensions"
+    },
+    {
+      "id": "f-5",
+      "text": "Destination country"
+    },
+    {
+      "id": "f-6",
+      "text": "Selected shipping method"
+    },
+    {
+      "id": "f-7",
+      "text": "Inspection requirements"
+    },
+    {
+      "id": "f-8",
+      "text": "Packaging requirements"
+    },
+    {
+      "id": "f-9",
+      "text": "Customs documentation"
+    },
+    {
+      "id": "f-10",
+      "text": "Insurance"
+    },
+    {
+      "id": "f-11",
+      "text": "Special handling"
+    },
+    {
+      "id": "f-12",
+      "text": "Urgency"
+    }
+  ],
+  "formTitle": "Request a Custom Quote",
+  "formSubtitle": "Fill in the details below and we will respond with a written quotation within 1–2 business days."
+}

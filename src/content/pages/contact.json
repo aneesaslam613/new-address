@@ -1,0 +1,27 @@
+{
+  "heading": "Get In Touch",
+  "subheading": "Contact Arseen Enterprises LLC for procurement requests, fulfillment inquiries, and custom quotations for businesses and individual customers.",
+  "companyName": "Arseen Enterprises LLC",
+  "email": "support@arseenenterprises.com",
+  "responseTime": "1–2 business days",
+  "inquiriesHeading": "Types of Inquiries",
+  "inquiriesBody": "We handle fulfillment requests, partnership opportunities, and general business inquiries. Select the type that best matches your needs.",
+  "emailButtonLabel": "Send an Email",
+  "inquiryTypes": [
+    {
+      "title": "Procurement & Fulfillment Requests",
+      "desc": "Submit your product procurement and fulfillment requirements and we will review the request and prepare an appropriate quotation.",
+      "id": "iJtwQJjOQXxolIqOJBQdp"
+    },
+    {
+      "title": "Partnership Opportunities",
+      "desc": "Interested in a procurement, fulfillment, or business collaboration? We welcome B2B and B2C collaboration inquiries.",
+      "id": "enbecWSomQG9ejLj3MyCm"
+    },
+    {
+      "title": "General Business Inquiries",
+      "desc": "Questions about our services, processes, or capabilities? Our team is ready to assist.",
+      "id": "25IrEiQkd9WGff3HJqjlV"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "headline": "Custom Product Procurement & International Order Fulfillment",
+    "subheadline": "Arseen Enterprises LLC provides custom product procurement and order fulfillment services for business clients (B2B) and individual consumers (B2C). Customers provide their product specifications, quantity and destination, and we coordinate procurement, order preparation, packaging, international shipment and tracking according to their approved order requirements.",
+    "cta": "Request a Quote",
+    "ctaSecondary": "Learn More"
+  },
+  "intro": {
+    "heading": "Product Procurement & Order Fulfillment for Businesses and Individuals",
+    "body": "Arseen Enterprises LLC coordinates custom product procurement and order fulfillment for business clients (B2B) and individual consumers (B2C). Customers provide their requirements, we prepare a quotation, and upon approval we coordinate procurement, preparation, packaging, international shipment and tracking through our sourcing and logistics network.",
+    "commitment": "We are committed to transparent business practices, written quotations before payment, and responsive customer support throughout the fulfillment process."
+  },
+  "services": {
+    "heading": "Our Services",
+    "items": [
+      {
+        "id": "svc-1",
+        "title": "Product Procurement",
+        "description": "We arrange physical products according to customer specifications, quantities and project requirements through our sourcing network. Each procurement request is reviewed for availability and fulfillment requirements before a quotation is provided."
+      },
+      {
+        "id": "svc-2",
+        "title": "Custom Order Fulfillment",
+        "description": "We coordinate each approved customer order from procurement through preparation and fulfillment according to the quotation and agreed requirements."
+      },
+      {
+        "id": "svc-3",
+        "title": "Product Inspection Coordination",
+        "description": "Where applicable, inspection, photographs, videos or other reasonable verification may be coordinated before shipment."
+      },
+      {
+        "id": "svc-4",
+        "title": "Packaging & Order Preparation",
+        "description": "Products are consolidated, prepared and packaged according to applicable order and transportation requirements before shipment."
+      },
+      {
+        "id": "svc-5",
+        "title": "International Shipment Coordination",
+        "description": "After an order is prepared, Arseen Enterprises LLC coordinates international shipment through appropriate independent logistics providers."
+      },
+      {
+        "id": "svc-6",
+        "title": "Tracking & Delivery Support",
+        "description": "Tracking information is provided when available, and we assist customers with shipment-status information throughout the delivery process."
+      }
+    ]
+  },
+  "howItWorks": {
+    "heading": "How It Works",
+    "steps": [
+      {
+        "id": "step-1",
+        "number": "01",
+        "title": "Submit Product Requirements",
+        "description": "The customer provides the requested product specifications, quantity, destination and relevant fulfillment requirements."
+      },
+      {
+        "id": "step-2",
+        "number": "02",
+        "title": "Receive a Quotation",
+        "description": "Arseen Enterprises LLC reviews procurement availability and fulfillment requirements and provides the customer with a quotation, including applicable order and shipping information."
+      },
+      {
+        "id": "step-3",
+        "number": "03",
+        "title": "Approve & Pay",
+        "description": "The customer reviews and accepts the quotation and pays Arseen Enterprises LLC for the approved order."
+      },
+      {
+        "id": "step-4",
+        "number": "04",
+        "title": "Product Procurement",
+        "description": "Arseen Enterprises LLC coordinates procurement of the requested physical products through its sourcing and procurement network."
+      },
+      {
+        "id": "step-5",
+        "number": "05",
+        "title": "Order Preparation",
+        "description": "The order is inspected where applicable, consolidated, prepared and packaged for shipment."
+      },
+      {
+        "id": "step-6",
+        "number": "06",
+        "title": "International Shipment",
+        "description": "Arseen Enterprises LLC coordinates shipment through an appropriate independent logistics provider as part of the order fulfillment process."
+      },
+      {
+        "id": "step-7",
+        "number": "07",
+        "title": "Tracking & Delivery",
+        "description": "Tracking information is provided to the customer when available, and Arseen Enterprises LLC provides shipment-status support through delivery."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready to Get Started?",
+    "body": "Contact our team with your product requirements and we will prepare a custom quotation for your order.",
+    "button": "Request a Quote",
+    "note": "Response time: 1–2 business days"
+  }
+}
